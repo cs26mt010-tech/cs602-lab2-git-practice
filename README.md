@@ -1,5 +1,5 @@
 # CS602 Lab 2
-A repository to hold submissions for CS602 Assignment 2.
+A repository  for CS602 Assignment 2.
 
 Feel free to fork this repository by using the GitHub command line tool, as so:
 
